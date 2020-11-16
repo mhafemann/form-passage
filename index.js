@@ -1,6 +1,6 @@
-exports.sayHi = () => {
+export const sayHi = () => {
   console.log("HIIIIIIIIIIIII!!!")
 }
-exports.helloWorld = () => {
+export const helloWorld = () => {
   console.log('Hello World')
 }
