@@ -1,0 +1,23 @@
+{
+  "name": "formpassage",
+  "version": "1.0.0",
+  "description": "A simple form validation library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhafemann/formpassage.git"
+  },
+  "keywords": [
+    "form",
+    "validation"
+  ],
+  "author": "Mark Hafemann markhafemann1@gmail.com https://markh.dev/",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhafemann/formpassage/issues"
+  },
+  "homepage": "https://github.com/mhafemann/formpassage#readme"
+}
