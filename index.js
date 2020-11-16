@@ -1,6 +1,7 @@
-export const sayHi = () => {
+const sayHi = () => {
   console.log("HIIIIIIIIIIIII!!!")
 }
-export const helloWorld = () => {
+const helloWorld = () => {
   console.log('Hello World')
 }
+export {sayHi, helloWorld}
